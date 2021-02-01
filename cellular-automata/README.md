@@ -23,6 +23,13 @@ https://en.wikipedia.org/wiki/List_of_random_number_generators
 
 From the articles, I have learned that cellular-automatons are used to produce random numbers.
 
+Idea: I can use the JS canvas API to get png files of each file, and I can produce a simple GIF or movie. Even, I can use the current patterns to produce an 8 bit sound on each frame update. For the sound creation look at the project:
+
+https://github.com/meenie/band.js
+
+http://plnkr.co/edit/LG20SL?p=preview&preview
+
+
 I just tell the story behind the implementation, and I did not say much about the implementation because it is a simple one and contains just a few hundred lines of code so there is not much to mention about it.
 
 
